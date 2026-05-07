@@ -34,4 +34,5 @@ machines and bug bounty programs.
 ---
 
 ## Connect
-[![LinkedIn](https://img.sh
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-zgheib-9z9z)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e0013-f46b-70b4-b6b1-7aa7548dc9fb)
